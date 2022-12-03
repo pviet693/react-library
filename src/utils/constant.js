@@ -1,0 +1,13 @@
+export const TOAST_POSITION = Object.freeze({
+    TOP_CENTER: "TOP_CENTER",
+    TOP_LEFT: "TOP_LEFT",
+    TOP_RIGHT: "TOP_RIGHT",
+    BOTTOM_CENTER: "BOTTOM_CENTER",
+    BOTTOM_LEFT: "BOTTOM_LEFT",
+    BOTTOM_RIGHT: "BOTTOM_RIGHT"
+});
+
+export const DATE_FORMAT = Object.freeze({
+    DDMMYYYY: "DD/MM/YYYY",
+    DDMMYYYYHHmm: "DD/MM/YYYY HH:mm A"
+});
